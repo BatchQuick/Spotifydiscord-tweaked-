@@ -1,0 +1,40 @@
+/**
+ * @name Spotify Discord (tweaked)
+ * @version 1.0.0
+ * @description a teaked version of spotify discord original author is capnkitten made nicer on the eyes
+ * @author Batchquick
+ * 
+ * @website https://batchquick.000webhostapp.com/
+ * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Spotify-Discord/css/source.css
+ * @donate https://paypal.me/capnkitten
+ * @invite jzJkA6Z
+ */
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Spotify-Discord/css/source.css);
+
+:root {
+	--accent-color: #1db954;
+	--accent-hover: #1ed760;
+	--accent-rgb: 29,185,84;
+	--accent-text-color: #fff; /*	-	*/
+
+	--chat-color: #121212;
+	--chat-box-color: #272727;
+	--sidebar-color: #000;
+	--sidebar-panel: #090909; /*	-	*/
+
+	--title-bar: #212121;
+	--sticky-header: #181818;
+	--sticky-header-border: #303030; /*	-	*/
+
+	--bar-color: #181818;
+	--bar-border-color: #282828;
+	--bar-size: 90px; /*	-	*/
+
+	--popout-color: #282828;
+	--popout-radius: 7px;
+	--popout-radius-small: 3px; /*	-	*/
+
+	--input-color: #212121;
+	--input-text-color: #fff;
+	--input-placeholder-color: #444;
+}
